@@ -1,0 +1,2 @@
+# mymcpserver
+Demo MCP server
